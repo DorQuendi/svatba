@@ -1,1 +1,1 @@
-# svatba.github.io
+# svatba
